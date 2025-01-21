@@ -28,6 +28,9 @@ public :
         m_sAppName = L"3D Game Engine Demo";
     }
 
+private:
+
+
     // overridden functions
 public :
     bool OnUserCreate() override {
